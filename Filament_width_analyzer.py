@@ -3,7 +3,7 @@
 Research Group Heilemann
 Institute for Physical and Theoretical Chemistry, Goethe University Frankfurt a.M.
 
-Determines the with (FWHM) of filaments in a fluorescence image and displays the results.sdfsdf
+Determines the with (FWHM) of filaments in a fluorescence image and displays the results.
 """
 
 from configparser import ConfigParser
