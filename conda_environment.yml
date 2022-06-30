@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+name: Filament_width_analyzer
+dependencies:
+  - python=3.7
+  - skimage
+  - numpy
+  - matplotlib
+  - pip
+  - scipy
+
